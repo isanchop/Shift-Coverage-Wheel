@@ -1,0 +1,5 @@
+{
+  "name": "Shift Coverage Visualizer",
+  "description": "A React application visualizing shift coverage with circular progress indicators and dynamic user avatars using Tailwind CSS.",
+  "requestFramePermissions": []
+}
